@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/timdyang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://timdyang.com
+  * I am timdyang (https://keybase.io/timdyang) on keybase.
+  * I have a public key with fingerprint 2E1C 773A 1EA8 7C80 17A6  6DD3 7498 52D6 13DF DE84
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101904aa5e1d761677592c76100c4e5aafc3bb0e8d7fec48b863a4ef19f1d2a37120a",
+            "fingerprint": "2e1c773a1ea87c8017a66dd3749852d613dfde84",
+            "host": "keybase.io",
+            "key_id": "749852d613dfde84",
+            "kid": "0101904aa5e1d761677592c76100c4e5aafc3bb0e8d7fec48b863a4ef19f1d2a37120a",
+            "uid": "c4f75072aad9cb3d701c0e33a8157f19",
+            "username": "timdyang"
+        },
+        "service": {
+            "hostname": "timdyang.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476067829,
+    "expire_in": 157680000,
+    "prev": "42c21d9969a2a119b8e574cd850f374065ae3de960d5e4a689349cb3d9ba1cf3",
+    "seqno": 47,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIeAnicrZJbSBVBGMfP8ZJmWCLh5dB1Q3rxMrO32T0QiZFZkYQRpYSn2ZnZ46Lu
+Hvesp2N6EiS6ECUUEQRJ5IvdJDsvFZUmUkQhZPbQhaggoggiKlAqaFbqJXpsXmbm
+m9//P9/3zUzkZwbygmffRdOTDzeGgg/unOoM7Pge/NYtGA7tEsLdQiubm1gbZXEv
+0mpRISwACKAOZIwVBilSoYqQoouErwAgMlMwNolkGIBpFJmMyJqhqRKWmQl1E1IR
+SwiKAAvlgmnZUebGXMv2uK3IIEFIwpBhDRENQIRVlVIJybqmiFSFEjUp02QubHHi
+voInZ+A4q7QcHuObyFx6/+D/c96dc3ZENpECkIgx1YkhUQQgAUySsAYVxDU+GGeu
+jdsZpz2rnXZhOyqkygUeTViE+Y31K/mLqCROO9fGXMdziNPGT1o8Lxb2hV5XzCf3
+MCPy2yNiWDblbeSCBHPjlmMLYchJwt04CmWkAhVpol4usGTMclnE8gkFqRrgw7+G
+JbilLBIRUl1XdSxiCHVDYwqSCdUUYPIXAKqCmUSZrgKqMBmrmi7Jc1XrBobElAS/
+qg7bEcIy4nniKPeMW1Ebe50uE1LjY7uyAsG8wLzsDP9/BfLmF/z5dR3PcwNT/RVu
+8NH5qtKtoRov3TX7rO7lkrX5xRtrzNszTfborJbsDaeymz90FNL3N8jeNeBy5seS
+zVcmSePpxL7xoytyavXD0dBgum13w2cyMBNYlqg+b+qd14ZPHkNHip/OrK5unta2
+lTVvWpixsvlgrP5kyVsvjeqnSxbVFmwf7181RJJPTpzZUP2paCLZeKZn0fWcc/OX
+f9emQj/qxvKzL5aO9q2rv3Rj+H5xJHtwOFnaEzm+tLCapb7K80JFBcGWmoFXN++6
+cDp3Nj1wuiEj61ZxxUjDgaGyyKa+F6/P9eZdGKnSU2+uE7zlatPPyarR9YXeoQWl
+3TuzFj8OfEneY/t/AXRSM2U=
+=5eMr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timdyang
+
+==================================================================

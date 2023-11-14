@@ -1,0 +1,1 @@
+(()=>{"use strict";function t(){this.href=this.href.split("?")[0].replace("****","yang")}window.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll("a.clean").forEach(e=>{e.href.startsWith("mailto:")&&(e.addEventListener("click",t),e.addEventListener("contextmenu",t))})})})();

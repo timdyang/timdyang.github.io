@@ -1,0 +1,1 @@
+(()=>{"use strict";function t(){navigator.clipboard.writeText(this.href)}window.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll("a.anchor").forEach(e=>e.addEventListener("click",t))})})();
