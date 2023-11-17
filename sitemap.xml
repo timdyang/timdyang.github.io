@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://timdyang.com/</loc>
-    <lastmod>2023-11-12T11:08:52.786Z</lastmod>
-  </url>
-  <url>
     <loc>https://timdyang.com/cv/</loc>
     <lastmod>2023-11-14T11:36:30.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://timdyang.com/</loc>
+    <lastmod>2023-11-17T08:34:55.038Z</lastmod>
   </url>
   <url>
     <loc>https://timdyang.com/media/docs/yang_2013_monitoring.pdf</loc>
