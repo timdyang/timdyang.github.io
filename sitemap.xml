@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://timdyang.com/cv/</loc>
-    <lastmod>2024-01-18T16:09:46.237Z</lastmod>
-  </url>
-  <url>
     <loc>https://timdyang.com/</loc>
     <lastmod>2024-01-18T16:09:46.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://timdyang.com/cv/</loc>
+    <lastmod>2024-02-26T08:06:37.031Z</lastmod>
   </url>
   <url>
     <loc>https://timdyang.com/media/docs/yang_2013_monitoring.pdf</loc>
@@ -33,7 +33,7 @@
     <lastmod>2023-11-11T19:16:54.324Z</lastmod>
   </url>
   <url>
-    <loc>https://timdyang.com/media/docs/yang_20231019_cv.pdf</loc>
-    <lastmod>2023-11-11T19:16:54.290Z</lastmod>
+    <loc>https://timdyang.com/media/docs/yang_cv.pdf</loc>
+    <lastmod>2024-02-26T07:50:18.947Z</lastmod>
   </url>
 </urlset>
